@@ -35,9 +35,11 @@
 ---
 
 ### 📊 My Stats :
+<div align="center">
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psycotick&theme=highcontrast)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=psycotick&show_icons=true&theme=highcontrast)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psycotick&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+</div>
